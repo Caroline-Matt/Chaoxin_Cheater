@@ -17,4 +17,8 @@
 1. 两次尝试能否直接拖到100%
 2. 倍速自动选最高
 3. 题目用遍历的方法找到答案
-4. 自动连播，没有下一个视频则打印“刷课结束”
+4. 检测到视频结束就点击“Next”按钮自动连播
+5. 没有下一个视频则打印“刷课结束”
+
+## 致谢
+本脚本参考并改进于chaolucky18的xuexitongScript（链接https://github.com/chaolucky18/xuexitongScript），并使用了CODEX
