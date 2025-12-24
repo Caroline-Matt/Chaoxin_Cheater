@@ -4,7 +4,7 @@
 超星学习通刷课脚本，可自动回答问题、连续刷课
 
 ## 使用方法
-1. 打开https://www.chaoxing.com/（学习通网页版）
+1. 打开https://www.chaoxing.com/ （ 学习通网页版 ）
 2. 右上角登录
 3. 登录后，鼠标移动到右上角头像与用户名处，出现的选项栏中选择“进入空间”
 4. 左栏选择“课程”，然后点击需要刷的课程
@@ -21,4 +21,6 @@
 5. 没有下一个视频则打印“刷课结束”
 
 ## 致谢
-本脚本参考并改进于chaolucky18的xuexitongScript（链接https://github.com/chaolucky18/xuexitongScript），并使用了CODEX
+1. 本脚本参考并改进于chaolucky18的xuexitongScript
+  （ 链接https://github.com/chaolucky18/xuexitongScript ）
+3. 开发时使用了CODEX作为辅助
